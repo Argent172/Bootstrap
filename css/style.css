@@ -1,0 +1,22 @@
+.container{
+	margin-top:10px;
+	font-size: 70px;
+	text-align: right;
+}
+.main-container{
+	border:1px solid grey;
+	border-radius: 15px;
+	padding: 20px 20px 40px 20px;
+	margin-top:10px;
+	height: 75vh;
+}
+.input-scroll-area{
+	overflow-y: scroll;
+	overflow-x: hidden;
+	min-height: 90%;
+	max-height: 90%;
+}
+.single-data{
+	margin: 3px;
+	margin-bottom: 20px;
+}
